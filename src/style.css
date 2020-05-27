@@ -1,0 +1,49 @@
+img[alt="www.000webhost.com"]{display: none;}
+
+body {
+    font-family: 'Open Sans';
+    margin: 0;
+    padding: 0;
+}
+
+a { text-decoration: none; color: black;}
+
+.text {
+    font-size: 48px;
+    margin: 0 auto;
+    width: 60%;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.logo img {
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin: 0 auto;
+}
+
+
+.links {
+    margin: 50px 0;
+    text-align: center;
+}
+
+.links i{
+    color: rgba(0, 0, 0, .5);
+    font-size: 42px;
+}
+
+.links i:hover {
+    color:black;
+}
+
+.button {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.button button {
+    margin: 0 auto;
+    width: 200px;
+}
