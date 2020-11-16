@@ -1,3 +1,7 @@
+@media (prefers-color-scheme: dark) {
+    .logo { background: #053881; }
+}
+
 body {
     font-family: 'Open Sans';
     margin: 0;
