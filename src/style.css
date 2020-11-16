@@ -1,5 +1,5 @@
-@media (prefers-color-scheme: dark) {
-    .logo { background: #053881; }
+@media only screen (max-width: 425px) {
+    .text { font-size: 20px; }
 }
 
 body {
